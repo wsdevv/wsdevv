@@ -14,4 +14,4 @@ If you have any questions about any of my current projects just message me at ``
 
 ### Stats
 
-<figure><embed src="https://wakatime.com/share/@8b83758b-bdbc-45fc-99e8-c3cbc1feea8f/58b49b21-3623-4d0a-9373-95233a8f3610.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8b83758b-bdbc-45fc-99e8-c3cbc1feea8f/b5382061-26a2-4242-a17e-c72bf9594eeb.png" /></a>
