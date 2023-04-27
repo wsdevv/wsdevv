@@ -11,7 +11,7 @@ I am working on my own alternative to the onion protocol and also making an OS w
 
 ### ❓ Questions
 
-If you have any questions about any of my current projects just message me at ```wesley.schell.sh@proton.me```!
+If you have any questions about my current projects just email me at ```wesley.schell.sh@proton.me```!
 
 ### 📊 Stats
 [![wsDev0's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsdevv)](https://github.com/wsDev0)
