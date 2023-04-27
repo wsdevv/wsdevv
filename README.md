@@ -1,6 +1,7 @@
 ### 👋 Hi there! 
 
-Hey, I'm Wesley, a highschool developer from Texas! I love exploring the different concepts of Computer Science and software engineering. 
+Hey, I'm Wesley, a highschool developer from Texas! 
+I love exploring the different concepts of Computer Science and software engineering. 
 I am very ambitious and have big goals (though I'll admit I'm not the best at executing them). 
 
 ### 💻 Projects? 
