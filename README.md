@@ -13,5 +13,5 @@ I am working on my own alternative to the onion protocol and also making an OS w
 If you have any questions about any of my current projects just message me at ```wesley.schell.sh@proton.me```!
 
 ### Stats
-[![wsDev0's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsDev0)](https://github.com/wsDev0)
+[![wsDev0's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsdevv)](https://github.com/wsDev0)
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@8b83758b-bdbc-45fc-99e8-c3cbc1feea8f/b5382061-26a2-4242-a17e-c72bf9594eeb.png" /></a>
