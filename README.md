@@ -1,13 +1,13 @@
 ### 👋 Hi there! 
 
 Hey, I'm Wesley, a highschool developer from Texas! 
-I love exploring the different concepts of Computer Science and software engineering. 
-I am very ambitious and have big goals (though I'll admit I'm not the best at executing them). I eventually want to become a computer science and machine learning engineer. However, my end goal is to become an entrepreneur of my own tech company one day!
+I love exploring the different concepts of Computer Science and software development. 
+I am very ambitious and have big goals (though I'll admit I'm not the best at executing them). I eventually want to become a computer science and machine learning engineer. Furthermore, my end goal is to become an entrepreneur of my own tech company one day!
 
 ### 💻 Projects? 
 
 Currently you'll see me working in my little "organization" called project undefined (more info on its page)!
-I am working on my own alternative to the onion protocol and also making an OS with my friend and colleague @PitchBlackNights. 
+I am working on my own alternative to the onion protocol as well as making an OS with my friend and colleague @PitchBlackNights. 
 
 ### ❓ Questions
 
